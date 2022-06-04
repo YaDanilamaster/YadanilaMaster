@@ -9,4 +9,4 @@
 
 #### О себе
 
-<img src="https://user-images.githubusercontent.com/75165289/172006549-4f71d335-98c2-40df-a351-ce72e7e36dd7.png" width="450" height="400" alt="only с++">
+<img src="https://user-images.githubusercontent.com/75165289/172006549-4f71d335-98c2-40df-a351-ce72e7e36dd7.png" width="350" height="300" alt="only с++">

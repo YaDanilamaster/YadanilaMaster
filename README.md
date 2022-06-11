@@ -1,6 +1,6 @@
 <h1 align="left">Привет! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
  Меня зовут Даниил</h1>
-<h2 align="left">Я начинающий разработчик C++, выпускник Яндекс.Практикум</h3>
+<h2 align="left">Я разработчик C++, выпускник Яндекс.Практикум</h3>
 
 #### Текущие цели
 
